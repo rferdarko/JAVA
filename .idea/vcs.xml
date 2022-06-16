@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CompleteJavaDeveloper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GroupProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GroupProject/AddressBook" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Hibernate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JAFER" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JDBC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JPA/Examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JPA/JPAEX" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Mapping" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PACKT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projects/Java-Script" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBoot/RestServiceDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Threads" vcs="Git" />
+  </component>
+</project>
