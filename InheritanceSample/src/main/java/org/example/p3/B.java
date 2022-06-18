@@ -1,9 +1,10 @@
 package org.example.p3;
 
-import org.example.p2.A; // Imports A Class
+import org.example.p2.A; // Child or Sub Class, Imports A Class so we can use it
 
 public class B extends A {
-    // extends A and make features available to B
+    // inherits variables in A class
     public int v5 = 100;
     public int v6 = 101;
+
 }
