@@ -1,8 +1,15 @@
 package accounts;
 
 public class Account {
-    private double balance;
+    protected double balance;
     private double interestRate;
+
+    // Overloading constructors - more than one constructor in a class
+    // Constructor without any arguments
+    public Account() {
+        // Adding this Constructor eliminates the need to add Super to the child accounts
+        System.out.println ("Account Constructor");
+    }
 
 
     // Constructor to set balance and interest rates
@@ -40,6 +47,6 @@ public class Account {
 
     // Status method to print the balance of the account
     public void status() {
-        System.out.printf("Balance: %.2f\n" , balance);
+        System.out.printf("Balance: %.2f\n" , balance); //2 decimal float
     }
 }
