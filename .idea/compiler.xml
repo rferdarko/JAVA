@@ -10,6 +10,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ClassInheritance" target="18" />
+      <module name="Shape" target="18" />
     </bytecodeTargetLevel>
   </component>
 </project>
