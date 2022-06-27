@@ -1,4 +1,4 @@
-package com.example.restServiceDemo;
+package com.example.RestServiceDemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
