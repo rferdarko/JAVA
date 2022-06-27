@@ -12,6 +12,8 @@ public class HelloWorldController {
     // to make it callable from a browser the request method needs to be mapped to a path for a given address
     public String helloWorld() {  // public access method called helloWorld will return a String
         return "Hello World";  // return value
+
+        // localhost:8080/hello will return the "Hello World" String in the web browser
     }
 
 
